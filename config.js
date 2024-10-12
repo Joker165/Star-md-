@@ -4,8 +4,8 @@ const chalk = require('chalk')
 // ganti info bot dibawah ini
 global.botName = "Anjai No Enc"
 global.ownerName = "IkyyKzy"
-global.botNumber = "923074060856"
-global.devNumber = ["923074060856"]
+global.botNumber = "2349125932419"
+global.devNumber = ["2349125932419"]
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
