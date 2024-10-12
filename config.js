@@ -7,7 +7,7 @@ global.ownerName = "IkyyKzy"
 global.botNumber = "2349125932419"
 global.devNumber = ["2349125932419"]
 
-global.Auto_Typing = false // auto typing
+global.Auto_Typing = true // auto typing
 global.Auto_Recording = false // auto recording
 global.Auto_ReadPesan = false // auto read messages
 
